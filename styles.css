@@ -11,6 +11,10 @@ a {
     font-weight: bold;
 }
 
+hr {
+    color: white;
+}
+
 #logo {
     width: 3em;
     border-radius:50%;
@@ -34,5 +38,5 @@ a {
 }
 
 .accordion {
-    background:white;
+    background:none;
 }
