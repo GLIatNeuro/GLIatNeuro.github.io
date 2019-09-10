@@ -6,7 +6,7 @@ body {
     background-image: url("https://images.unsplash.com/photo-1563863137468-972b0c39d5b2?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=934&q=80");
 }
 
-a href {
+a {
     color: white;
     font-weight:strong;
 }
