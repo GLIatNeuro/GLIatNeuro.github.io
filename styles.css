@@ -1,7 +1,6 @@
 body {
     line-height: 1.3;
     font-family: 'Arimo', sans-serif;
-    font-weight: bold;
     color: white;
     background-image: url("img/background-img.jpeg");
 }
@@ -16,7 +15,8 @@ hr {
 }
 
 .btn-link {
-    color:white
+    color: white;
+    font-weight: bold;
 }
 
 #logo {
