@@ -15,6 +15,10 @@ hr {
     border: white;
 }
 
+.btn-link {
+    color:white
+}
+
 #logo {
     width: 3em;
     border-radius:50%;
