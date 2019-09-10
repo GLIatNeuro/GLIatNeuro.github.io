@@ -5,6 +5,9 @@ body {
     background-image: url("img/background-img.jpeg");
 }
 
+.container {
+    width: 80%;
+
 a {
     color: white;
     font-weight: bold;
