@@ -39,7 +39,7 @@ hr {
 }
 
 .card {
-    background: none;
+    background: rgba(0,0,0,0.3);
     font-size: 0.8em;
 }
 
