@@ -34,6 +34,10 @@ hr {
     background:rgba(0,0,0,0.5);
 }
 
+.dropdown {
+    background:rgba(0,0,0,0.3);
+}
+
 #general-text {
     font-size: 0.9em;
 }
