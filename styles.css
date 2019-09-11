@@ -44,6 +44,10 @@ hr {
     color: white;
 }
 
+.dropdown-item {
+    color: white;
+}
+
 #general-text {
     font-size: 0.9em;
 }
