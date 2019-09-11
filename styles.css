@@ -16,6 +16,10 @@ a {
     font-
 }
 
+img {
+    margin: 2px;
+}
+
 hr {
     border: white;
 }
