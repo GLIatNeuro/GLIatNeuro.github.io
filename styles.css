@@ -42,6 +42,7 @@ hr {
 
 .card {
     border-radius: 80%;
+    background: none;
 }
 
 .card-body {
