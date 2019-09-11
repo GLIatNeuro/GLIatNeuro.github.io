@@ -37,6 +37,7 @@ hr {
 
 .navbar {
     background:rgba(0,0,0,0.5);
+    font-weight: bold;
 }
 
 .dropdown-menu {
