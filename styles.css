@@ -39,6 +39,11 @@ hr {
     background: rgba(0,0,0,0.3);
 }
 
+iframe {
+    background: rgba(0,0,0,0.3);
+    color: white;
+}
+
 .navbar {
     background:rgba(0,0,0,0.5);
     font-weight: bold;
