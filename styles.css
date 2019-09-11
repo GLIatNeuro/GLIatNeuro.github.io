@@ -31,7 +31,9 @@ hr {
 }
 
 .navbar {
-    background:rgba(0,0,0,0.9);
+    background:rgba(0,0,0,0.3);
+    border-style: outset;
+    border-color: black;
 }
 
 #general-text {
