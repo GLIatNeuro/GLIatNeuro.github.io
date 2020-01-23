@@ -12,11 +12,11 @@ body {
 }
 
 .jumbotron {
-    color: white;
+    color:white;
 }
 
 a {
-    color: white;
+    color:lightseagreen;
     font-weight: bold;
 }
 
@@ -39,10 +39,6 @@ hr {
     border-radius:50%;
 }
 
-.jumbotron {
-    background: rgba(0,0,0,0.3);
-}
-
 iframe {
     background: rgba(0,0,0,0.3);
     color: white;
@@ -59,7 +55,7 @@ navbar {
 }
 
 .dropdown-item {
-    color: white;
+    color:white;
 }
 
 #general-text {
@@ -75,5 +71,10 @@ navbar {
 }
 
 .accordion {
-    background:rgba(0,0,0,0.3);
+    background: white;
+    color: black;
+}
+
+.btn-link {
+    color:black;
 }
